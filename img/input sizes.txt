@@ -1,0 +1,14 @@
+Style: rounded rectangle
+Corners radius: 5
+Text size: 18
+Font: Roboto
+Horizontal padding: 5
+Vertical padding 2
+
+tek_state_s.svg // 
+
+x1.380 y0 94.850,27.000
+
+y0.350\\
+
+5.155 0.780  26.000
